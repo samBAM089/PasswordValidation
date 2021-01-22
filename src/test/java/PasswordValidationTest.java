@@ -17,7 +17,10 @@ public class PasswordValidationTest {
     public void includeNumberTester(){
         String password = "hallo5";
 
+
+
         boolean result = PasswordValidationApp.includeNumber(password);
+
 
         assertEquals(true, result);
     }

@@ -1,5 +1,6 @@
 public class PasswordValidationApp {
 
+
     public static void main(String[] args) {
         String pw = "muenchen089";
         int min = 7;
