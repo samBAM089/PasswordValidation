@@ -1,4 +1,8 @@
+<<<<<<< HEAD:src/main/java/PasswordValidationApp.java
 public class PasswordValidationApp {
+=======
+public class passwordValidationApp2 {
+>>>>>>> main:src/main/java/passwordValidationApp.java
 
     public static void main(String[] args) {
         String pw = "muenchen089";
